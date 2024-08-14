@@ -1,0 +1,39 @@
+#IntelliJ IDEA
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+.history/
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# logs
+*.log
+
+#configuração
+.DS_Store
+Thumbs.db
+
+# temp
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# banco de dados
+*.sql
+*.db
+*.sqlite
+
+# Spring Boot
+spring.log
